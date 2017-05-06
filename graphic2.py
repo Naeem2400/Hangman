@@ -1,5 +1,5 @@
 import pygame, sys, time, random
-import key_pressed
+
 from pygame.locals import *
 pygame.init()
 
